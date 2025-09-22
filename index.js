@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <h1>主页</h1>
-      <Link href="/about">
+      <Link href="/about.html">
         <a>关于我们</a>
       </Link>
     </div>
